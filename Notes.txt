@@ -1,0 +1,8 @@
+- NO Framwork
+- Vanilla JavaScript
+- Many Plugins 
+-jQuery For Pluyins
+- UI/UX Skatches 
+- Mind Mapping 
+- My VS Code Extensions
+ 
