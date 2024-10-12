@@ -15,7 +15,7 @@ body {
     background-size: cover;
     position: relative;
     margin-top: -10;
- 
+ background-color: #232f49;
 }
 .lading-page .overlay{
     background-color: #00000078;
