@@ -60,7 +60,7 @@ button.forEach(elem=>{
     })
 });
 let imeg = ["../img/forest_mountains_sunset_cool_weather_minimalism.jpg","../img/360_F_657206985_7JnPZxrSIP9L6Pk3dyf9i8ljFEpv8iqZ.jpg","../img/wallpapersden.com_minimal-hd-landscape_1920x1080.jpg","../img/wallpapersden.com_minimal-ship-artwork-purple-background_1920x1080.jpg","../img/wallpapersden.com_rising-sun-at-mountains-4k-background_1920x1080.jpg"];
-ladingpage.style.backgroundImage="url(../img/360_F_657206985_7JnPZxrSIP9L6Pk3dyf9i8ljFEpv8iqZ.jpg)";
+ladingpage.style.backgroundImage="url(/ZaidMallah/img/360_F_657206985_7JnPZxrSIP9L6Pk3dyf9i8ljFEpv8iqZ.jpg)";
 
 function  ranomizimeges(){
     if(background===true){
